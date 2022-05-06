@@ -1,7 +1,6 @@
-package com.java.tasks.codeforces.a_team;
+package com.java.tasks.codeforces.a_team231A;
 
 import java.util.Arrays;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Team {

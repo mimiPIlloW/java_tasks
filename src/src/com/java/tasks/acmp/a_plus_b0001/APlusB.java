@@ -1,4 +1,4 @@
-package com.java.tasks.acmp.a_plus_b;
+package com.java.tasks.acmp.a_plus_b0001;
 
 import java.util.Scanner;
 

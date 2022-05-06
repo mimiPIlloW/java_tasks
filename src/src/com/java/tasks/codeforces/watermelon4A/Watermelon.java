@@ -1,4 +1,4 @@
-package com.java.tasks.codeforces.watermelon;
+package com.java.tasks.codeforces.watermelon4A;
 
 import java.util.Scanner;
 

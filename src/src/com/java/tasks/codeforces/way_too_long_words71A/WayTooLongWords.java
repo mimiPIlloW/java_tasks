@@ -1,4 +1,4 @@
-package com.java.tasks.codeforces.way_too_long_words;
+package com.java.tasks.codeforces.way_too_long_words71A;
 
 import java.util.Scanner;
 

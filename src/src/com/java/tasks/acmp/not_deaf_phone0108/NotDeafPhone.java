@@ -1,4 +1,4 @@
-package com.java.tasks.acmp.not_deaf_phone;
+package com.java.tasks.acmp.not_deaf_phone0108;
 
 import java.util.Scanner;
 

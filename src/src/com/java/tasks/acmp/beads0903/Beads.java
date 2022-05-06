@@ -1,4 +1,4 @@
-package com.java.tasks.acmp.beads;
+package com.java.tasks.acmp.beads0903;
 
 import java.util.Scanner;
 

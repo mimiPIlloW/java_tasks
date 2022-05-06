@@ -1,4 +1,4 @@
-package com.java.tasks.acmp.olympiad;
+package com.java.tasks.acmp.olympiad0942;
 
 import java.util.Scanner;
 
