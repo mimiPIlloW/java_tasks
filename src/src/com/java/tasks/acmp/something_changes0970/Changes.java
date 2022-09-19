@@ -3,8 +3,9 @@ package com.java.tasks.acmp.something_changes0970;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Changes {
-    int add(int[] all, int l) {
+public class Changes implements IChanges {
+    @Override
+    public int add(int[] all, int l) {
         Scanner scanner = new Scanner(System.in);
         all = new int[l];
         for (int a = 0; a <= all.length - 1; a++) {
@@ -14,7 +15,7 @@ public class Changes {
         return setAll(all);
     }
 
-
+    @Override
     public void result(int l, int[] all) {
         for (int a = 0; a <= all.length; a++) {
             if (all[0] + all[1] != all[2]) {
@@ -55,5 +56,4 @@ public class Changes {
         this.all = all;
         return 0;
     }
-
 }
